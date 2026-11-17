@@ -3,7 +3,7 @@ name = "SigmaOS-fetchmail"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "fetchmail component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
